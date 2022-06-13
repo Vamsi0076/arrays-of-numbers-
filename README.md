@@ -1,0 +1,2 @@
+# arrays-of-numbers-
+FINDING THE ARRAYS OF NUMBERS USING PYTHON
